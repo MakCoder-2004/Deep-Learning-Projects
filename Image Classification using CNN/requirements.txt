@@ -1,0 +1,7 @@
+tensorflow>=2.0
+h5py
+matplotlib
+opencv-python
+numpy
+streamlit
+pillow
